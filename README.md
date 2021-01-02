@@ -1,1 +1,1 @@
-milestone 3 of project in advanced programming 
+milestone 3 of advanced programming project
