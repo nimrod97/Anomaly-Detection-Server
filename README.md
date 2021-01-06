@@ -1,1 +1,1 @@
-milestone 3 of advanced programming project
+milestone 3 of advanced programming project - client server methodology
