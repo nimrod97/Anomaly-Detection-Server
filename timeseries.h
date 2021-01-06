@@ -1,7 +1,7 @@
 /*
  * timeseries.h
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay 
  */
 
 #ifndef TIMESERIES_H_

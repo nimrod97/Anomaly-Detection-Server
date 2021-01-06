@@ -1,7 +1,7 @@
 /*
  * SimpleAnomalyDetector.cpp
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay
  */
 
 #include "SimpleAnomalyDetector.h"

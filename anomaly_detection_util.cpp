@@ -1,7 +1,7 @@
 /*
  * anomaly_detection_util.cpp
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay
  */
 
 #include "anomaly_detection_util.h"

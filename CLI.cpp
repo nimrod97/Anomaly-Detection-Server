@@ -1,3 +1,9 @@
+/*
+ * CLI.cpp
+ *
+ *  Author: Nimrod Gabbay 
+ */
+
 #include "CLI.h"
 CLI::CLI(DefaultIO* dio) {
     this->dio=dio;
@@ -14,12 +20,12 @@ void CLI::start(){
     string menu;
     menu.append("Welcome to the Anomaly Detection Server.\n");
     menu.append("Please choose an option:\n");
-    this->dio->write(menu);
+    this->dio->writeData(menu);
     for(Command* c: commands)
-        this->dio->write(c->getDescription()); 
+        this->dio->writeData(c->getDescription()); 
 
     string s;
-    s=this->dio->read();
+    s=this->dio->readData();
     int opt= stoi(s);  
     switch(opt){
         case 1: 

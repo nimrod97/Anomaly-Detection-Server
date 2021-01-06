@@ -1,7 +1,7 @@
 /*
  * anomaly_detection_util.h
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay 
  */
 
 #ifndef ANOMALYDETECTORUTIL_H_

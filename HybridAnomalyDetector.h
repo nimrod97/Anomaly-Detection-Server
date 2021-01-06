@@ -1,7 +1,7 @@
 /*
  * HybridAnomalyDetector.h
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay
  */
 
 #ifndef HYBRIDANOMALYDETECTOR_H_

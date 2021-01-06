@@ -1,7 +1,7 @@
 /*
  * SimpleAnomalyDetector.h
  *
- * Author: Nimrod Gabbay ID 318322484
+ * Author: Nimrod Gabbay
  */
 
 #ifndef SIMPLEANOMALYDETECTOR_H_
