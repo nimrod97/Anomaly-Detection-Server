@@ -25,8 +25,6 @@ public:
 };
 
 class AnomalyDetectionHandler : public ClientHandler {
-  thread *t1;
-
 public:
   virtual void handle(int clientID) {
     SocketIO sio(clientID);
